@@ -1,2 +1,6 @@
 # hello-world
-just another repostory
+
+hello people
+
+hubot here, i like HTML and CSS
+but im new here
